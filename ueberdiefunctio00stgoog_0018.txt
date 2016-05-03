@@ -1,0 +1,52 @@
+Ueber die Functionnldeterminnnten. 15
+
+5.
+sind die n -Ι- 1 Funetionen
+
+ef„ mse
+
+von eben so vielen Vern'nderliehen n, x„ ..., x„ vergelegt‚
+eo hilde man die partiellen Differentiele aller dieser anntionen
+nach allen Verenderliehen. Es entstehen so die (n † 1)2G1·eesen
+
+esch
+
+[3318] Die Detenminante, die zu dem eysteme dieser Greesen
+ge ert:
+
+nenne ioh die Funetionaldeterminante oder genauer
+die Determinante‚ die zu den Funetionen f, f„ ..., f„ der
+Verenderliehen x, τί, ..., n„ gehert oder die in Bezug anf
+die Vennnderliehen n, n„ ..., n„ gebildete Determinante den -
+anetionen f, f„ ..., snss) Han men nemlieh mehrere Sy-
+eteme von Verenderlichen und nimmt bald dae eine, bald das
+andre fflr die unabhengigen Vernnderliehen² so mnes man
+sorgfn'ltig (404) angeben‚ in Bezng auf welche Verenderliehe
+die Functionen differentiirt oden die Funetionaldeterminante
+gebildet werden soll. Hat man nur eine nunnion, so geht
+die Functionaldeterminante in den Differentielqnotienten der
+Funetion abest).
+
+Im allgemeinen ist der Grad der Determinente (4*) eben
+s so gross wie die Anzehl der Funntionen. So oft jedoch meh· ¹
+rene der gegebenen Funetionen den Verenderliehen gleieh sind,
+vermindent sich der Grad der Determinente. Ist zum Beispiel
+
+sm÷e= Tmen) fm÷n Ξ ‘Y'm‘ev ···›fn=⁹⁶n›
+
+so wind die vorher angegebene Functioneldeterminante gleich
+
+stef annm,
+
+—0— ι --..
+
+en nx4 &xm
+
+Wenn alle vergelegten Funetionen den Reihe nach gleich
+den einzelnen Verenderliehen sind, eo wind die vorliegende
+Determinante gleieh den Einheit. Wenn die Funetionen
+
+fm÷17fm÷27 '¹'7fn
+
+ 
+

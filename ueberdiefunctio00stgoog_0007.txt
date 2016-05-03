@@ -1,0 +1,51 @@
+4 Ο. G. J. Jacobi.
+
+Detenminant en herleiten werden, eben ιο ιιόιιιιιιιι umgekehrt
+die Eigensehaften der algebreisehen Determinenten ans den
+Eigensehasten der ιἰιιιιι ienaldeterminanten ersehlossen werden.
+Nimmt man ιιιιιιιιιιι ιιι, dass
+
+Ηιιιέιυ fn
+
+lineare Funetionen der Verenderliehen
+
+. xeddemd'Yn
+emd, else
+
+fk = akx -ι- ajin, -Ι- αμ, -ι- -Ι- effren,
+ιο wird
+-fn -d',
+ὄζει
+und es ιιιιι sieh daher die Detenminante‚ die nu einem be-
+
+liebigen Systeme von Elementen (ιω
+Determinante, die zu einem Syeteme partieller Different iale
+
+gehdrt‚ ansehen als die
+
+gehdrt oder ele eine Funetionnldeterminnnte.
+
+[320] (396) Bevor ich jedoch zu dem eigentliehen Gegen-
+stende komme, werde ieh einige Bemerknngen dher die Be-
+zeiehnung der partiellen Differentiele vorauseehieken. Und da
+in dieser Abhandlnng winderholt von Funetionen die Rede ist,
+die von einander nbhengig oder nieht von einander ebhdngig
+
+sind, sehien es engebraeht‚ anch hierdber einige elementato
+Anseinandersetzungen hinnunufdgen.
+
+2.
+
+’ Um die partiellen Differentiale ven den gewdhnliehen zu
+unterseheiden oder von denen, wo alle verenderlichen Grdssen
+ιιι Funetionen einer einzigen Verdnderliehen angesehen wer-
+den, pfiegen Euler und andre die partiellen Differentiale in
+Klammern einzusehliessen. Da jedeeh eine Anhdnfung ven
+Klammern ιιι das Lesen nnd das Schneiben reeht ldstig ιιι,
+habe ich es vorgezogen‚ durch die Oharaktenistik
+
+d .
+gewdhnlinhe Differentinle und‘dureh die Charakteristik
+
+ 
+

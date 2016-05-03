@@ -1,0 +1,53 @@
+10 Ο. G. J. derebi.
+
+Dagegen ist ee ganz und gar nnmdglieh,mitte1stderver-
+gelegten Gleiehungen eine gressere Anzehl von Gressen zu
+bestimmen‚ ais die Anzahl der Gleiehungen betregt. Mithin
+mnes die Anzahi der Unbekannten‚ die ven einander unab-
+hengige Gleinhungen enthalten‚ die Anzahl der Gleiehnngen
+entweder erreiehen eder sie iibersehreiten und kann niemals
+geringer els diere sein.
+
+Werden die Werthe ven Grdssen² die man aus eben se
+vielen Gleiehungen ermittelt hat, wiederum in diese Glei-
+ehnngen eingesetzt, se mdssen identisehe Gleiehungen hernus·
+komnren.
+
+Sind ven einander nnabhengige Gieiehnngen vergelegt, se
+darf man die (indesen² die mit Hdlfe dieser Gleiehnngen durch
+die iibrigen bestimmt werden sellen, nieht immer willkurlieh
+auswiihlen. Kommen eiwa zwei Grdssen cc und 1, in ellen
+vergelegien Gieielrnngen nur additiv verbunden ver, so lessi
+sieh nnr· x -{- 1,, aber nieht das einzelnen eder κ, durch die
+iibrigen Grdssen ausdrdeken. ,
+
+Kann rnen durch die Gleichungen e: 0, 11, = 0, ...,
+11,,,--11 die Grdssen n, 1,, ..., em bestimmen oder dureh
+die iibrigen Grdesen κω, n. e. w. ausdrdeken, se idest sieh
+ans diesen Gleiehungen keine Gleiehung herleiten, die zwisehen
+²m÷rr oemw ..., 1,, ellein besteht oder ene der gleichzeitig
+alle Grdssen n, 1,, ..., em eliminiri sind. Men kdnnte nem-
+lieh vermege einer· selehen Gleiehnng eine der Grdssen 1,, ÷r2
+nm42 11. e. w.‚ etwa 2m÷rr dureh die nbrigen nm„ u. e. w.
+ausdrucken, und es werden daher mitteisi m -1- 1 Gieiehungen
+ned-2 Grdssen r, 1,, ..., xm÷r dureh die nbrigen xm„
+n. s. w. besiimmt werden, was unmdgiieh ist.
+
+Kann man dagegen aus den ven einander nnabhengigen
+Gleiehungen
+
+u=0‚ “⁴²⁰⁷ ..., um=0
+nieht alle x, 1,, ..., em bestimmen‚ se idest sieh aus diesen
+Gleiehungen immer eine andre herleiten, die zwisehen xmw
+scm4² 11. s. w. ailein besteht eder ans der· gleichzeitig nile
+e, sc„ ..., em eliminirt sind. Bestimmen wir· ndmlieh 1111
+einen Werth ven 11, der kleiner· als m ist, eus den Gleiehungen
+
+n=0,u4=0‚...,uk=0
+
+die Gre'ssen cc, 1,, ..., σε, und setzen ihre Werihe in die
+Gleiehnngen
+uk÷r=⁰> α1111201 ···1 “nr-²0
+
+ 
+

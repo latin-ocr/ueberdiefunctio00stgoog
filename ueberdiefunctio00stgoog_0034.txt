@@ -1,0 +1,53 @@
+Ueber die huntionaIdeterminanten. 31
+
+[340] Lehrsatn I.
+
+Die Determinante von anotionen‚ die alle durch eine
+kleinere Anzahl von Funotionen ausgedrflckt werden kinn-
+nen‚ versohwindet. ·
+
+Dieser Lehnsatn bestatigt, was¹ wir oben bewiesen haben;
+so ost man namlieh vongelegte Funntionen durch eine kleinere
+Anzahl andren Grnssen ausdrucken kann, sind die Funotionen
+
+¹ , nicht unabhnngig von einander (ξ. 4), es versohwindet aber
+
+die Determinante von Funetionen‚ die nicht nnabhitngig von
+η einander sind (ξ. 6).
+
+Lehrsatz ΙΙ.
+
+Es seien f, f„ ...‚ fn Funotionen der Grbssen φ,
+cp„ .,., ‘pm die ihrerseits Funetionon der Grbssen x,
+x„ ...‚ x„ sind, sodass f, fn, ...‚ fn anch als Fune-
+tionen von x, κῃ ...‚ nn angesehen werden konnen.
+Dann ist die Determinante dieser Funetionon gleioh dem
+Produote der Determinante der Funotionon f, f„ ...‚ sn
+in Bezng auf φ, φ, ...‚ ‘pn und den Detenminante der
+Funntionen (417) φ, cp„ ...‚ φη in Bezug auf x, x„
+..,.‚ xa, oder es wird
+
+ΞΛΜ...ὲῶ
+*bx neq Μ’
+
+bf„ UQ‘R ὸφι MP„
+
+bx ὸαε1 hoen'
+
+Dieser Lehrsatz entsp1·ioht durehaus dem Lehrsatze, in den
+er ffir n :0 nbergeht: Ist f eine Funntion vony undy
+eine Funetion von x, so wind
+
+und dio Einfaehheit der ¹Formel wind gan· nicht vermindert‚
+wenn man die Differentiale durch Funntionaldeterminanten
+
+ersetzt.
+Lehrsatz III.
+
+Es seion f, f„ ...‚ fn Funetionen der Grnssen φ,
+qn, ...‚ (Vp, die' selbst Functionen der Vernnderliohen
+m„ ...μη sind, und p grfisser als n. Man hilde das
+Produet den beiden Detenminanten
+
+ 
+
