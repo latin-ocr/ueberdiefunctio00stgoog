@@ -1,0 +1,50 @@
+66 Anmerkungen.
+
+als Grenzwerth des Quotienten
+Essdffi -dj3···dff„23‡d4oe4·d‚x‚···d„x„
+
+definirt werden kann3 dabei ist
+
+α’ῑήί-’Ξ-Ξὲί dil] -Ι-ἒῶὶϊ, ·†· ··¹ -Ι-ἓζξίίῥΐη
+zu setzen. Von dieser Definition ausgehend giebt Bertrand
+neue, elegante Beweise fflr die meisten Lehrsfitze‚ die Jacobi
+im Folgenden entwiekelt.
+
+Um die Analogia mit dem Differentialquotienten auch.
+{iusserlioh hervortreten zu lassen, verwendete Donlcin (Philo-
+sophical Transactions‚ Lond0n1854. S. 72) die seitdem viel-
+saoh benutzte Bezeiehnung:
+
+Ausserordenssioh einfaoh gestaltet sich die Theorie der
+Funotionaldeterminanten bei Benutzung der Methodon (ἵναπ-
+mann's. Sotzt man
+
+e4x4†e‚x2÷···†e„x„=oe,
+
+⁶1s1÷02s2÷··· θεώ-ΞΥ,
+
+so wird
+
+man vergleiohe die Bemerkung Grassmann’s in der Aus-
+dehnungslehm. Berlin 1862. ΝΥ. 441. (Gesammelte math.
+und phys. Werke, Bd. I. Theil 11. S. 298.) Eine ausfflhr-
+liohe Darstellung gab Scott, Theory of determinants and
+their application. Cambridge 1880. S. 138.
+
+8) Zu S. 20. Einen Remis, bei dem der Sohluss von n
+auf n -Ι- 1 vermiedon wird, hat Bertrand angedeutet (a. a. 0.
+S. 214); wenn man ihn strong durehfsshren will, fffllt er jedooh ο
+ziemlieh umstfindlioh aus. Einen sehr eleganton Beweis des
+SatzeS, dass das Verschwinden der Functionaldeterminante
+
+Mfwfn)
+
+*—
+
+W«, ...‚ mn)
+
+die nothwendige und hinreiohende Bodingung fur das Be-
+stehen einer Relation ·
+
+ 
+

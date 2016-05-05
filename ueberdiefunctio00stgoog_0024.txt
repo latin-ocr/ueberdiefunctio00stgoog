@@ -1,0 +1,29 @@
+Uener die functione}determinanten. 21
+
+Die Ldsung dieser Gleiehungen ist immer mdglieh und be-
+stimmt. Ee werden ndmlieh neeh der bekannten Theerie der
+linearen Gleiehungen lineare Gleiehungen nur dann unmdglieh
+eder nnzurxeiehend zur Besiimmnng der Unbekannten‚ wenn
+ihre Determinante versehwindet (7²⁸²). Dens jedoeh die Deter-
+minente der Gleiehungen [l] oder (2):
+
+’ sebald die Funeiienen Μ, ...‚ fn unabhdngig ven einander
+
+sind, nieht versehwindet, habe ich in dem verhergehenden
+Peragraphen bewiesen. “
+
+(409) Die Ldsung der Gleiehungen (l) eder (2) ergiebt
+sieh dureh folgenden Verfahren. Das, f„ ..., fn unebhdngig
+ven einander sind, lessen sieh x, κ, u. e. w. durehf, f¹ n. s. w.
+eusdrdeken. Setzt men dieee Ansdrdeke in irgend eine andre
+Funetionge von cc, πὶ u. s. w. ein, so geht sie in eine Fune-
+tien vens, f¹ u. s. w. tiber, und es ist das partielle Differential
+ven φ neeh der Grdese fk²
+
+ὸφ dep dx ὸφ ὄπ,
+‘³³ esf-effle-
+
+Α*
+
+ 
+

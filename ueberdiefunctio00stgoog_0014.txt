@@ -1,0 +1,50 @@
+Ueber die Funetionaideterrninanten. 11
+
+ein, 1ο wird nur daun durch diese Gleiehnngen keine weitere
+der Grttssen 1,, 4„ 1,, 4„ ..., rr„ bestimmt, wenn dieee Grdssen
+vermdge der substitution 111 den Gieiehungen 1,, 4, = e u. 1. w.
+gana und gar versehwinden oder wenn Gieiehnngen aussehlieaa-
+lieh zwisehen den am„ am„ u. 1. w. hervergehen.
+
+[3251 Wenn m -Ι-1 unabhttngige Gleiehungen zwiaehen
+111-1 111111111111 vorgelegt sind, 11 kann, wie wir im
+Vorhergehenden 11111, 11111 111 11111 der vergelegten Glei-
+111111111111Η111111111111111 au einer identisehen gemacht
+werden, sondern 11 1111111 1111 111 der Zabi der Unbekann-
+ten, und zwar 111 allgemeinen auf verschiedene Arten, 1 - m
+Unbekannte ausgewithlt werden, zwisehen denen keine (1111-
+ehnng beatelrt, die 1111 111 den vergelegten Gleiehungen ab·
+111111 111111. Werden durch die Gieiehungen a = 0, 1, = 0,
+..., 1,,πο eben 11 11111 (1111111 a, a„ ..., 1,,,, die 111
+111111111, bestimmt, 11 sage 111, 111 11111 11 Bezug auf
+diese Gre'ssen unabhatngig von einander.
+
+(401) r.
+
+Ganz 11111111 11111 gelten 1111111111, die unabhangig
+111 einander sind. Funetionen mehrerer Veritnderliehen nenne
+111 unabhangig von einander, wenn 11111 111 11111
+1111 Constante 111 oder dureh die tibrigen arrsgedrdekt werden
+kann oder, was dasselbe 111, 11111 11111111 diesen Funetionen
+111111 11111111 (111·1111111111111111 11111 1111111113 11111111,
+die dureh Substitution der Anadrtieke der Funetionen au einer >
+identiaehen wird.
+
+Wenn zwieehen den vorgeiegten Funetionen eine oder 1111-
+1111 Gleiehungen dieser Art 11111111,11 111111 eben 1111111
+Funetienen durch die flbrigen bestimmt werden, und awisehen
+diesen 1111111 dann 11111 weitere Gleiehung. Sind mithin
+vergelegte Funetionen 11111 unabhangig 111 einander, 11
+werden darunter gewisse Funetionen unabhangig 111 einander
+sein und die dbrigen werden 1111 durch diese 1111111111
+111111. Sind die Funetionen f, f„ ..., f, 1111111111111111ι
+111 einander, sind dagegen die Funetionen f„ f„ ..., f„
+unabhitngig 111 einander, 11 ists eine Funetion von f„ f„
+..., fn. Wenn 11111111 die Funetionen f„ f„ ..., f, unab-
+htngig 111 einander 1111, 11 kann die Gleiehung, die nwieehen
+allen Funetionen f, f„ ..., f, besteht, nieht 111 11111111-
+1111 f 111 1111, und daher wird f dureh diese Gleiehung als
+Funetion der dhrigen f„ f„ ..., f, bestimmt. '
+
+ 
+

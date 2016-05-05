@@ -1,0 +1,48 @@
+Ueber die Funetieneldeterminenten. 29
+
+definirt, ee erhdlt men das Differential der Funetien f neeh
+der Verenderliehen 5, wenn men (415) die Differentiele ven
+F naeh fund 5 durch einander dividirt und dee negative
+Vorzeiehen voreetnt. Α51 ganz 'a'hnliehe Art iet, wie die Fermel
+
+¹ (5) lehrt, die Determinante der Funetionen f, f„ ..., s„ in
+Bezng anf die Verenderliehen 54 54, ..., 544, wenn die Func-
+115555 f, f„ ..., f„ der Verenderliehen 5, 54, ..., 544 dureh
+die Gleiehungen
+
+F=0, F,=0, ..., F,=0
+
+(151151515551554515151155115515515515511515551555155 ven
+F, F,. .,„'F ιιι Bezug 551 f f„ ..., f„ und1n Bezng auf
+5 5Μ.,..,544,55151 des Zeiehen -1-5155-5555555155551.
+je naeh d'emn die Anzahl der f, f, u s. W. genade eder un-
+Jerade ist.
+
+g Aue der allgemeinen Ferme15 (5 ) felgt die ιιι dem vor-her
+gehenden Peragraphen bewieeene als Gerellar. Wir haben
+55551151]1551515551555155155815155155155 5 ,4554 ,45444
+f, f„.. .,]”44 die Gleiehungen F= 0, F,= —,.0 .,F„:
+5535155551(15115111555514 f„...,f„du1·ehx, 544 Μ45
+
+aus, so wird
+eF eF dF„
+
+Σ-1--....-1 -
+15154 dn„
+
+1111515 mnes, wenn 5, 54, ..., x„ dureh f, sss, f„ eue-
+gedrdekt werden, neeh eben diesem Lehrsat 515
+
+1 [555] „„ee
+
+dF eF eF„
+
+Σ ss -— · —-⁴-·· -—
+werden, folglieh let
+
+15 154 1544
+
+551 das zeigte ieh1n dem verhergehenden Peragrephen.
+
+ 
+

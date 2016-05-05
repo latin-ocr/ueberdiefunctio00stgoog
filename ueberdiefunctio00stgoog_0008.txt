@@ -1,0 +1,48 @@
+Ueber die Funetionaldeterminenten. 5
+
+ὸ
+
+pentielle Differentiale zn bezeichnen. Trifft men diese Ueber-
+einknnft‚ so ist ein Irrthum ansgesehlossen. Ist also f eine
+Funetion von x und y, so werde ieh sehreiben
+
+ff=gff†gwd
+
+Wenn eine Funetion nur eine Verenderliehe authen, so
+dart man in gleieher Weise die Charakteristik d oder ὃ be·
+IlutzIeilileselbe Unterseheidnng dart man aneh bei der Bezeieh-
+nung von Integrntionen benutzen, so dass die Ausdrdeke
+
+fftoe, mclx, sfsx, min
+
+verschiedene Bedentnng haben3 in jenem wird ntmliehy und
+daher aneh ste, y} als Funetion von e angesehen‚ in diesem
+hat man die Integration ellein neeh x nnsznfdhren und y
+wthrend der Integration ale Constante anfzufassen.
+
+Laqrcmqe hat andre Bezeiehnungen vongesehlagen, die
+man nieht selten mit Vortheil anwenden kann. Ist nitmliehf
+eine Funetien mehrerer Verdnderliehen x, y, z, so bezeichnet
+s‘ das totale Differential, das heisst den Ausdlnek
+
+f=gx¹igtf÷gd3
+
+hierin sind τ’, y', z' die Differentiale vnn x, y, z nach der
+vernnderliehen, die man als die unabhttngige gewithlt hat.
+Degegen bezeichnet er pertielle Differentiam, indem en hin-
+ten· des Zeiehen f' die Verenderliehe schreibt, nanh der die
+partielle Differentiation vernunehmen ist‚wtth1·end die iibrigen
+als Constanten genten, so dass
+
+fe={‚fe=}‚fe=g
+[321] (897) Handelt es sieh nur um Funetionen von zwei
+Vertnderliehen‚ eo bezeichnet er dureh kleine Striehe eber und
+nnter der Zeile‚ wie oft die Funetion naeh jeder von beiden
+Verenderlichen zu differentiiren ist, sedans zum Beispiel fx,
+desselbe bedentet wie
+d⁵s
+
+nnn
+
+ 
+

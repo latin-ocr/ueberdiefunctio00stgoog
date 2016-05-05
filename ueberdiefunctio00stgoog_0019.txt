@@ -1,0 +1,53 @@
+16 d. G. J. Jacobi.
+
+beliebige Funetienen ven nm„ ²m÷2> ...‚ x„ sind, die x,
+xl, ...‚ xm nieht en halten se wind die vorliegende Deter-
+
+minante
+fflfd,dd
+ssdx dn dn„
+
+{fi‚Me÷M÷m„n
+
+ὸ dx4 dnm dnm4¹ dnm„ dn„
+
+Das alles folgt ans den Sdtnen, die ieh (5³¹³) bewiesen ,
+hebe, wenn man nur am an die Stelle vnn
+
+dfi-
+dxk
+
+setzt.
+ἢ 6.
+
+An de1· Sehwelle dei· Unterenehungen iiber die Funetional-
+determinanten tritt une folgenden· Lehrsatz entgegen:
+
+Die Determinante ven Funetionen, die nieht nn-
+abhdngig von einander sind, veneehwindet‚ und
+Funetienen‚ deren Determinante versehwindet‚ eind
+nieht nnabhdngig von einander.
+
+Wir wellen zueret beweisen‚ dass die Determinnnte von
+ξοιὲιζὲἰὶὲἒιὲξη, die nieht nnabhdngig ven einander sind, ven-
+
+Ee seien f, s4, ...‚ fn nieht nnebhdngig vnn einander,
+es bestehe vielmehr zwisehen ihnen die Gleiehung
+
+⁴ Hififii ···isni=‚05
+[329] die zn einer identieehen wind, wenn man fdr f, f„ ..., fn ’
+die Ansdrdeke in den Verdnderliehen x, τευ ..., n„ einsetnt,
+denen eie gleieh sind. Differentiirt men die vorhergehende
+Gleiehung naeh den einzelnen Verenderlichen, eo erhdIt man
+folgenden Sysi em von Gleiehungen:
+
+nono ’Ξεξξ Wf‘n
+
+ὸ
+
+sm
+
+hii, figam W 'iisd'i Ji·
+
+ 
+
