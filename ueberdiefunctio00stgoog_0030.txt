@@ -1,0 +1,54 @@
+Ueber die Funetioneldeterminanten. 27
+
+Ans dieser Formel engeben sich viele andro, wenn man
+die lndiees der n oder der f permndrt.
+
+Setzt tmen m= -n, so ergiebt sich en dem angegebenen
+Orte die Formel
+
+Ἠ· ssAA'.. .A('¹) ΞΜ.
+(337Jtn1h1n geht in diesem Falle (2 ) 1n folgende Formel
+
+REss—·-¹···ffl=l
+
+bfb4' bf„
+
+oder
+
+(3) Σιὸέ.ὸ-ῑι...ὖΆΞ--Ῑ,..-ιο),
+
+ο οη ee 23:³²⁸ {ff ,οι
+
+wibxn
+
+Hei men eine Funetien f einer Verbndelliehen x und driiekt
+umgekehrt x durch f ans, so hat des Differential von n nach
+f den reeiproken Werth des Differentiels der Funetion f naeh
+x. In bhnlieher Weise lehrt die vorstehende Fermel: Het
+man n -l- 1 Funetionenf, j„ ...,f„ von eben so vielen Ver-
+bnderliehen tc, ω), ..., x„ und driiekt umgekehrt x, x„ ..., x„
+durch f, f„ ..., f„ aus, so hat die Funetionaldeterminante
+von w, e„ ..., x„ in Benug auf fif„ ..., fn den reeiproken
+Werth den Funetionaldeterminente von f, f„ ..., f„ in Bezug
+auf x, x„ ..., nn.
+
+10.
+
+DasV0rhe1gebende lehrt, wie men die Funetienaldeterminante
+erhilt, wenn nieht die expliciten Auedrdeke der Funetionen,
+sondern umgekehrt die Variebeln dargestellt dunch die Func-
+tienen gegeben sind. Diese Aufgabe ist ein besonderer Fall
+der allgemeineren, die Funetionaldeterminante zu finden, (414)
+wenn die Funetionen dureh Gleiehungen zwisehen den Fune-
+tionen und den vergelegten Verenderliehen definiit sind oder
+wenn die Funetionen implicite gegeben werden.
+
+Es mdgen die Funetionenfifi, ...,f„ ven n, π), ..., x„ ’
+
+durch folgende Gleiehnngen zwisehen allen diesen 2n Η ι
+Grdssen definiri werden ¹
+
+F=0‚F4=0‚F2=0‚...‚Fn=0.
+
+ 
+

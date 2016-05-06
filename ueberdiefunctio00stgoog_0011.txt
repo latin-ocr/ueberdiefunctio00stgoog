@@ -1,0 +1,54 @@
+8 O. G. J. iacobi.
+
+und bei mehreren Gliedern kdnnte er sloh ereignen‚ dass eine
+Formel, die man dureh eine einzige Zeile derstellen kann,
+eine genre Seite in Ansprneh ndhme Gewiss mnes men den
+grdesten Werih anf eine Bezeiehnnng legen, die alle Zweidentig-
+keit beseitigt und die Formeln ohne jede mdndliehe Erlduterung
+en nnd sdr sieh deutlich und verstrndlieh meeht. We es jedoeh
+ohne allzngrossen Nachtheil mdglieh wer, gleubte ieh mieh in·
+dem vorliegenden Felle wegen dieser nngehenren und nn-
+vermeidliehen Weitsehweifigkeit mit der Bezeiehnung der Diffe-
+rentinle begndgen zn ddrfen, die eui die Angebe der nnabhdn-
+gigen Verenderliehen verzinhtet.
+
+Es ddrfte auch nieht vorkornmen‚ dass ein verstiindiger
+heser, der die Reehnungen animerksam verfolgt, darflber ‘in
+Unsieherheit gerdth, anf welehes System unabhdngiger Verin-
+derliehen die einzelnen pertiellen Differentiale beregen werden.
+Indessen werde ieh, wo es angebreeht erseheint‚ demit men
+zwei Systeme pertieller Differentiale, die verschiedenen Systemen
+von Verdnderliehen entspreehen, leiehter unterseheiden kann,
+dns eine von beiden, wie Euler es zu thun pfleg†‚ in Klemmern
+einsehliessen.
+
+[323] 3.
+
+Isi irgend eine Gleiehung zwisehen mehreren Grdssen vor-
+
+· gelegt‚ se lessi sieh eine jede dieser Grdssen dureh die dbrigen
+
+bestimmen, es sei denn, dass die Gleichung identiseh besteht.
+(399) Identiseh nenne ieh eine Gleichnng, in der elle Glieder
+sich gegenseitig nerstdren und die mithin znr Bestimmung einer
+Grdsse nnieuglieh ist. Entnimmt man aue der vergelegten
+Gleiehung den Werth einer Grdsse und serzi diesen Werih in
+der vergelegten Gleiehnng fdr die 'Grdsse ein, so ergiebt sich
+eine identisehe Gleiehung oder wir nennen vielmehr diesen
+Werth der Grdsse einen der Gleiehnng entnommenen oder die
+Gleiehung befriedigenden‚ wenn er, fiir die Grdsse eingesetzt‚
+die Gleichung zn einer identieehen maeht. Weil die Diffe-
+rentiation ven Null wiederum Null und daher die Differentietien
+
+von sich gegenseitig nereidrenden Gliedern wiederum sich ·
+
+gegenseitig nerstdrende Glieder ergiebt‚ so felgt‚ dass dureh
+die Differentiation einer identieehen Gleiehung naeh irgend
+einer (irdsse wiederum eine ideniieehe Gleiehung entsteht.
+
+Ieh nenne Gleiehungen unebhdngig von einander,
+wenn keine ven selbst ideniiseh besteht eder mit Hilfe der
+dbrigen zu einer identisehen gemacht werden kann.
+
+ 
+

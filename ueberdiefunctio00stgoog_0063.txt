@@ -1,0 +1,38 @@
+Annorkungen.
+
+Jaeoti’s Abhandlnng De determinentibos funotio·
+nelibus‚ die hier in deutscher Uebertragung nen hereos-
+gegeben wird, iet 1841 in Orelle⁷s Journal ersohienen (Bd. 22.
+S. ere-352, wieder abgedruokt in den Ges. Werlren‚ Bd. III.
+S. 393-438). sie folgt dort unmittelber der Abhandlung
+De formatione et proprietatibus determinantium,
+die den Inhalt des rorhergehenden Btndehens der Klassiker
+bildet. Hat diese Abhandlung bewi1·kt‚ dass die Determinanten‚
+dieee Algebra fiber der Algebre‚ wie Syloester einmal eioh aus-
+drttekte‚ zu einem unentbehrliohen Werkzeuge der Mathema-
+tikerwu1·den,eo1handelte es sioh in jener um eine Anwondung
+der Determinenten von soloher Fruohtbarkeit‚ dass es wohl
+kein Gebiet der hoheren Analysis giebt‚ in dem man der
+›Jaoobi’sohen Determinante‹ nieht begegnet.
+
+Es ist von hohem Interesse zu verfolgen, wie der Begriff
+der Funotionaldeterminante sioh allmtthlioh entwiokelt het. Be-
+stimme, oonorete Aufgaben fthrten auoh hier zu den hooh-
+sten Abstreotionen. Euler hatte 1744 in der Methodue
+inveniendi eto. dae Problem behandelt, die Rotationskorper
+zu bestimmen‚ welohe bei gegebenem Volumen die kleinste
+Oberflttohe besitzen. Indem er diese Aufgabe tanin verell-
+gemeinerte, man solle uberhaupt die Gestalt der Korper finden,
+die bei gegebenem Volumen die kleinste Oberfltohe besitzen,
+wnrde er auf die 'Pr-ansformation von Doppelintegralen gefthrt
+und gelangte so in einer vor dem Jahre 1762 versassten‚ aber
+erst 1770 veroffentliohten Abhandtung zu der Bildung, die wir
+jetzt als die Determinante eines Systems von zwei anotionen
+= zweier Variabeln bezeichnen. Bald darauf, 1775, wurde Lo-
+qronqe dureh eino Aufgabe der Potentieltheorie, die Bestimmung
+der Krtfte, die ein gravitirendes Ellipsoid anstibt‚ (1111- ver· Ι
+anlaset, in entspreohender Weise die allgemeine Traneformation
+der dreifaohen Integrale zu erledigen.
+
+ 
+

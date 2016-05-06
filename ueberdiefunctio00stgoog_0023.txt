@@ -1,0 +1,45 @@
+mil-i
+
+eet‚zen dass s⁴ geradeboe a: ent thalten soll ιιιιι ἰιιιιί ιιι
+
+(ιιι ‚
+
+eder die Funetien s, ausgedriiekt t·dnreh a und s4, wirdf rei
+venakund ιιι eine Funetion von f⁴ allein. Hiermit ιιιι tdar-
+
+Der zweite Faet ιοι·ὸ versehwindet nieht da wir vorans-
+
+” getthan So oft die Identitat
+
+da ιιιι da1 da
+
+beat eht,t ιιι entweder f¹ eine Constante eder f erne Funet' ιιοιι
+von f„ nnd οι sind also die Funet tronen s, f¹ nieht rmab·
+hangig von einander Und das war zu beweiaen
+Αιιι dem Lehrsatze, dass die Det terminant e von Funetionen,
+die nieht nnabhdngig ven einander sind, versehwindet‚ folgt‚
+dass Funetionen‚ deren Determinante nieht versehwindet, un-
+abhdngig ven einander sind. (408) Αιιι dem Lehrsatze, dass
+Funetienen‚ deren Determinante versehwindet‚ ιιιοιι unabhangig
+von einander sind, feIgt, dass die Determinante von Funetio-
+nen, die nnabhdngig ven einander sind, nieht versehwindet (⁸).
+’ Ha'tte man ιιιιι eine Funetion, ιο ιιιιᾱιιι die im Vorher-
+gahenden bewiesenen Lehrsatze darauf nnrdekkemmen, dass
+eine Function constant ιιι oder nieht eonstant ist, je naeh
+dem ihr Differential versehwindet eder nieht vereehwindet.
+Umgekehrt lehrt das Vorhergehende, dass dieser Lehrsatz auf
+Syrteme von Funetionen mehrerer [332] Veranderliehen ans·
+gedehnt werden kann, wenn an die Stella der Bedingung, dass
+die Funetion constant sein aoll, die Bedingung gesetzt wird‚
+dass die Funetionen nieht unabhangig von einander sein sellan,
+und wenn ferner an die Stella des Differentials die Funetional-
+determinante gesetnt wird.
+
+8.
+
+α Es mdgen f, f,² ...jn von einander nnabhangige Fune-
+tionen der Veranderliahen a, a„ ..., a„ bezeichnen, und es
+sei folgendes System linearer Gleiehungen vergelegt:
+
+ 
+

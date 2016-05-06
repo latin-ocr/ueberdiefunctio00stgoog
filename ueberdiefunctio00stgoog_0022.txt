@@ -1,0 +1,56 @@
+Ueber die Funntionaldeterminenten. 19
+
+,3Ῑῇ ,λιιι ,ιιι,,ιι,,Ξ {ww ιι ιι, ιι
+
+exea nc¹ ιιι,
+
+Versehwindet also die Determinante auf der linken Seite,
+
+bf)
+
+so mess entweder (-
+
+oder die Det erminante
+
+ιιιιιι...ξι-ι
+
+versehwinden. ι ⁹
+
+·(407) wir setzen verane, dese die Behauptnng ιιιι ιι Fune-
+tionen gilt toder dass ιι ιἰιιιιιιιοιιιιιι nieht tunabhe'ngig von ein-
+ander sind, wenn ihre Determinante versehwindet. Μιι hin
+ιιιιιιιιιιι, wenn die vonhergehende Determinant te A ιιιιιιιιιιιιιιιθ,
+die Funetionen f, f„.. .., f„ ιιι Benug auf ι, ‚ew ,,ιιη
+nieht unabhengig von einander sein, und das widersprieht der
+
+Voraussetznng, die wir gemacht haben. [331] Folglieh muns
+
+der andre Faetor (bx) versehwinden‚ und hiereus folgt‚ dass
+
+fallein dureh f„ f‚‚.. „fn ohne die Verenderliehe ιι eus· ·
+
+gedrflekt werden kann. Μιι hin sind die Funetionenfifi,s ..., n
+nieht unabhengig von einander, was zu beweieen wer.
+
+Naehdem wir die Behauptung ιιι· ιι -Ι- 1 Funetionen be-
+wiesen haben, sobald sie ιιι ιι ιἰιιιι tionen gilt, wird sie all·
+gemein gehen, enbald sie ιιι enei Funetionen erhertet ιιι.
+Des geschieht folgendermaassen
+
+Es seien f und f⁴ ane 10nen von ιι und ιι, deren De
+ιιιιιιιιιιιιιιιι ινοιιιιιιιιιιιιιιι, eder es sei identiseh
+
+ιιιι ι ι..Ο
+escen, ὸιι,ιι
+
+Nun ist f⁴ entweder eine Constante oder ιιιιιιιιι wenig-
+stens eine der beiden Verenderliohen‚ etwa x„ und dann lesst
+einh ιι, durch ιι und fn ausdrneken. Setzt man diesen Aus-
+druek ιιι f' ιιιιι, so wird
+
+33 ³233) ιι
+
+Ι 2*
+
+ 
+
