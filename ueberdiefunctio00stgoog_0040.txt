@@ -1,0 +1,45 @@
+Ueber die Funetioneldeterminanten. 37
+
+e eF¹ eF 'anlmer ιιι,Νη
+
+vss—,-„„ , „- -- -.,
+
+- ⁶ x τοι ὸὸοηχπὸβηρ bfnm·
+Ἶιὀιόι „eme
+
+Essbf' &fn &fem
+
+Diese Ferme} lehn, wie men die Determinant te ven Funetienen
+findet, die auf irge'nd eine Art implicite gegeben sind.
+
+Wird die Function f der einen Verbnderliehen ο durch
+m -†- 1 Gleichungen
+
+F=0‚F1=0‚ ···7Fm=⁰
+
+zwieehen den Grbesen ο ‚‚f snm· „fmt bes immt ιο iet
+eF nF
+
+Vergleieht man diese Formel mit tder allgemeinen (2), ιο er·
+kennt man, dass nneh hier zwisehen dem ersten Differenbinl
+einer Funetien einer Verbnderliehen und der Determinanbe
+
+eines Systems mehrerer Vennnderlieben vollstbndiges Entspre·
+eben stattfindet.
+
+[345] (ιιι) ιι.
+
+Ieh werde jetzt einen Lebesatz beweben, der besonders
+hemerkenswerth ist und der in Verbindung mit den· Formel (2)
+des verhergehenden Peragraphen die Berechnnng der Fune-
+tionaldeterminanten erheblieh erleiehtert. Wir wellen nbm-
+lieh annehmen‚ dass zwisehen den Grbssen x, 5⁶1⁷
+...‚ F„ eben ιο viele Gleiehnngen
+
+f=0²2f1=0‘w··2fe=‘1e
+
+gegeben sind, in denen οι,ὀιΙ n. s. w. Constanten be-
+denten. Dann behaupte ieh: Die Determinante
+
+ 
+
